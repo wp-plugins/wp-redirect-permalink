@@ -31,5 +31,8 @@ How to istall ?
 
 == Changelog ==
 
+= 1.0.1 =
+* Fixed typo in Plugin name and URI
+
 = 1.0 =
 * This is the first version of the WP Redirect Permalink

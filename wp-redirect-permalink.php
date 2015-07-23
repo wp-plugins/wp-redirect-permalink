@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: WP Permalink Redirect
-Plugin URI: http://nabtron.com/wp-permalink-redirect/
+Plugin Name: WP Redirect Permallink
+Plugin URI: http://nabtron.com/wp-redirect-permalink/
 Description: Redirects old /postname/post_id/ links to /postname/ only 301
 Author: nabtron
-Version: 1.0
+Version: 1.0.1
 Author URI: http://nabtron.com/
 */
 
